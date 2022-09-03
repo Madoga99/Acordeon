@@ -31,7 +31,7 @@ function chillHop() {
             active: false,
         },
         {
-            name:"SUBLIME GRACIA,
+            name:"SUBLIME GRACIA",
             artist: "Canticos y Alabanzas",
             cover: "https://manuappshome.files.wordpress.com/2020/07/canticos-12.png",
             id: uuidv4(),
