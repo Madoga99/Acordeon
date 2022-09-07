@@ -31,12 +31,12 @@ function chillHop() {
             active: false,
         },
         {
-            name:"Flon Flon Musette",
+            name:"Impact FM-Musette",
             artist: "Accordion",
-            cover: "https://manuappshome.files.wordpress.com/2020/02/flon-flon-musette.png",
+            cover: "https://manuappshome.files.wordpress.com/2022/09/impact-fm-e28093-musette.png",
             id: uuidv4(),
             color: ["#1D2731", "#F17E76"],
-            audio: "https://listen.radioking.com/radio/260329/stream/305056",
+            audio: "https://impactfm-musette.ice.infomaniak.ch/impactfm-musette-64.aac",
             active: false,
         },
         {
@@ -58,12 +58,12 @@ function chillHop() {
             active: false,
         },
         {
-            name:"Nortenas Inmortales Radio",
+            name:"Radio Dulce Presencia",
             artist: "Accordion",
-            cover: "https://manuappshome.files.wordpress.com/2021/07/nortenas-inmortales.png",
+            cover: "https://manuappshome.files.wordpress.com/2022/09/radio-dulce-presencia-150.png",
             id: uuidv4(),
             color: ["#578CCE", "#E9D6D0"],
-            audio: "https://node-07.zeno.fm/26w1f7r5n6duv",
+            audio: "https://server.radiogs.net:7139/;",
             active: false,
         },
         {
@@ -117,7 +117,7 @@ function chillHop() {
             cover: "https://manuappshome.files.wordpress.com/2020/02/rdici.png",
             id: uuidv4(),
             color: ["#008781", "#cfc08c"],
-            audio: "https://radio.pro-fhi.net/flux-njxcsnli/stream2",
+            audio: "https://radio.pro-fhi.net:19258/stream2",
             active: false,
         },
         {
