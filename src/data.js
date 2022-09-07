@@ -13,15 +13,6 @@ function chillHop() {
             active: true,
         },
         {
-            name:"Infinite Accordion",
-            artist: "Accordion",
-            cover: "https://manuappshome.files.wordpress.com/2020/02/infinite-accordion.png",
-            id: uuidv4(),
-            color: ["#1D2731", "#F17E76"],
-            audio: "http://streaming.radionomy.com/JamendoLounge",
-            active: false,
-        },
-        {
             name:"RDICI",
             artist: "Accordion",
             cover: "https://manuappshome.files.wordpress.com/2020/02/rdici.png",
@@ -136,6 +127,15 @@ function chillHop() {
             id: uuidv4(),
             color: ["#1D2731", "#F17E76"],
             audio: "http://live2.jupinfo.fr:8000/radioaccordeon",
+            active: false,
+        },
+        {
+            name:"Infinite Accordion",
+            artist: "Accordion",
+            cover: "https://manuappshome.files.wordpress.com/2020/02/infinite-accordion.png",
+            id: uuidv4(),
+            color: ["#1D2731", "#F17E76"],
+            audio: "http://streaming.radionomy.com/JamendoLounge",
             active: false,
         },
         {
